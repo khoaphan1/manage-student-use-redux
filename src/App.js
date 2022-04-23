@@ -189,6 +189,7 @@ function App() {
         <div className='form_container'>
           <div className='title_container'>
               <h2>Quản lý học sinh</h2>
+              <h2>Quản lý học sinh cùng Khoa</h2>
               <img width={220} src='../../student.jpg'/>
           </div>
 
