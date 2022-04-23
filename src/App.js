@@ -188,6 +188,7 @@ function App() {
         <div className='form_container'>
           <div className='title_container'>
               <h2>Quản lý học sinh</h2>
+              <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzZMTh_n9DE3CznuCnA8wVdQI7IQT9sDng&usqp=CAU'/>
           </div>
 
           <div className='row clearfix'>
